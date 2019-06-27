@@ -19,8 +19,8 @@ body {
   background-color: #282c34;
 }
 
-h1 {
-  color: hotpink;
+button {
+  margin: 2rem;
 }
 
 .App {
